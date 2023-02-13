@@ -67,7 +67,7 @@ I created back office for an e-commerce at Beeline/Beelab. Started from scratch 
     - Typescript
     - Element-UI
     - Vuejs-2
-- **STAN-ROADS - Travel agency site**: Here I used latest tools like Nux3, [Nuxt Content v2](https://content.nuxtjs.org/), as a CMS [Inkdrop](https://www.inkdrop.app/) app developed by solo developer. I order to optimize image I use Nuxt/Image and provider Cloudinary. 
+- **STAN-ROADS - Travel agency site**: [stanroads](https://stanroads.com) Here I used latest tools like Nux3, [Nuxt Content v2](https://content.nuxtjs.org/), as a CMS [Inkdrop](https://www.inkdrop.app/) app developed by solo developer. I order to optimize image I use Nuxt/Image and provider Cloudinary. 
 
 ## Edication
 2016 - **INHA University in Tashkent, not Complete**
